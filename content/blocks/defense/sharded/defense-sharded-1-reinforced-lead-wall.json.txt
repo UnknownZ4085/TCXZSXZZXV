@@ -1,0 +1,33 @@
+{
+"type": "ShieldWall",
+"name": "Reinforced Lead Wall",
+"description": "A shielded lead wall, capable of tanking way more damage than a copper wall but costs much more materials",
+"health": 630,
+"armor": 3,
+"size": 1,
+"consumes": {
+"power": 0.167,
+},
+"requirements": [
+"lead/32",
+"graphite/32",
+"silicon/50",
+"mini-cell/5", ￼ ￼ 
+],
+"consumesPower": true,
+"outputsPower": false,
+"hasPower": true,
+"conductivePower": true,
+"shieldHealth": 500,
+"research": {
+"requirements": {
+"parent": "colossal-copper-wall", ￼ 
+"lead/25000",
+"fragment/125",
+"silicon/5500",
+"graphite/4000",
+"copper/12500",
+"power-cell/50"
+}
+},
+},

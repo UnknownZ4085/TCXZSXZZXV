@@ -1,0 +1,117 @@
+--TURRETS--
+(...)
+
+<OTHER/SHARDED)>
+
+-PRIO RACRI: Fires a bullet which gets stronger the further the target is, can lag the game if too much is placed. Cannot use coolant.
+
+-CRYSTALAGON: A powerful support turret, fires a huge wave of energy which slows and lowers health of the enemies, deals no damage but is effective for dealing more damage. Cannot be overdrived and cannot use coolant.
+
+-ACTAVIS: Fires a powerful fragging nuke at enemies. Optionally uses coolant.
+
+-SAGRI: A small turret which fires bullet that frags into lightning on hit. Optionally uses coolant.
+
+-REACTOR CATAPULT: A big turret which fires a variety of reactors at enemies. Optionally uses coolant.
+
+-HBT: Heal Beam Tower. an alternative to menders, heals nearby damaged blocks with a laser, longer range than a mend projector but can only target a block at a time. Cannot use coolant.
+
+-SCORCHING SINGULARITY: Requires hundreds of materials to fire. Fires a powerful continuous beam of flame at enemies, enemies hit by the flame get higher health but gets damaged over time and gets slowed down massively, decent range. Cannot use coolant.
+
+<SOLARIA>
+
+-INFERNIA CALAMITRIX: An omega turret, fires an orb that is hotter than our star, frags into homing orbs which incend anything it touches. Optionally uses slag.
+
+-STARSTRIKE OMEGA: A Laser type omega turret. You can't run or hide, this turret will melt you with it's point laser. The ultimate and final weapon of SOLARIA. Optionally uses slag.
+
+-ATOMIC SEPARATOR: A giant turret that does tremendous damage to whatever it fires at, targets the strongest unit. Optionally uses slag.
+
+<VENXON>
+
+-ZEPTACI: A huge turret made for pulling enemies with it's insanely powerful tractor beam. Venxon's first tractor beam when they encountered the Geefo. Cannot use coolant.
+
+-VENXATRIOCNA: An omega turret and is Venxon's most powerful, this turret can annihilate almost anything it fires at. Shoots a massive wave of energy that pierces and also frags into 4 more waves of deadly energy, disrupting any kinds of healing and destroying any kinds of units or structure. Optionally uses coolant.
+
+-XAPTEN: Knowing the existence of the Geefo, the Venxon made an omega AA turret, this turret shoots a power cell at speeds that can be 0.01% to 5% lightspeed, it also has a high firerate of 25 per second. Optionally uses coolant.
+
+-TRIOXINION: An omega turret of venxon, it's name is because of the 3 shot bursts. Fires huge explosive materials at anything, uses 15 per shot, so good luck with the ammo. Optionally uses coolant.
+
+<DAGGER INDUSTRIES>
+
+-DUAL DAGGER: This dagger is a better version of the duo, this has 4 guns which is already better than a dagger, has higher firerate, all for the cost of being 2x2. Optionally uses coolant.
+
+-SCATTERING DAGGER: This dagger fires a dagger missile which explodes into daggers which fire bullets. Cannot use coolant.
+
+-DAGGER: A dagger which can't move. Optionally uses coolant.
+
+-MELTING DAGGER: These daggers are charging a laser to fire at non daggers, it's 5x5. Needs coolant to operate.
+
+<ZETRYR>
+
+-ENTAACN: A powerful turret that can cause irreversible damage to things it fires at. fires a beam which poisons any unit, made for destroying hordes of enemies or a single target against colossal threats. Cannot use coolant.
+
+-ERADICATOR: It's Zetryr so their final weapon has to be a giant death ray right? well yes and no, this weapon fires a barrage of missiles which home in on enemies for a few seconds like a malign but not so similar, then frags into more missiles which then frag into lasers, also melts enemies. Optionally uses coolant.
+
+-PGR: Stands for Persistent Gamma Ray, this turret fires a GRB-like but not similar beam, instead of just being a single powerful burst, this turret fires a continuous powerful gamma ray beam. Cannot use coolant.
+
+-ZETRACTINA: An improved segment, this version fires large point defense laser-like bullets which instantly destroy other projectiles it touches, still can't target lasers though, what a shame. Cannot use coolant.
+
+<OMEGA BIND>
+
+•AMALGAMATIONS
+
+-SPECTHADOW: An amalgamation of Spectre and Foreshadow, instead of a high damage bolt, this fires lower damage but faster firerate bolts, still does target strongest. Surge alloy, Thorium and Pyratite are the ammunitions for this amalgamation. Optionally uses coolant.
+
+-SCADOWNUO: An amalgamation of Duo, Scatter and Meltdown, high damage laser but only targets air, range is greater and a second barrel. Optionally uses coolant.
+
+-SWALVER: An amalgamation of Salvo and Swarmer, 12 barrels, more damage and can now use thorium and titanium as ammunition. Optionally uses coolant.
+
+-LANCALLASAX: An amalgamation of Lancer and Parallax, charges a beam which pulls in enemies instead of a persistent point laser, also targets ground. Optionally uses coolant.
+
+-ARCMENT: An amalgamation of Arc and Segment, higher damage, can damage enemies, can target air, higher firerate. Optionally uses coolant.
+
+-DUSE: An amalgamation of Duo and Fuse, less damage, cheaper, more range, faster firerate, instead of a 1 less shrapnel, 1 more barrel. Optionally uses coolant.
+
+<REVVEOR>
+
+•TEMPLE DEFENSE SYSTEM
+
+-AVANENT: Long range point defense turret which also pulls in enemies, has a very high firerate.
+
+-NEVENDEA: A long range opposite of the parallax, instead of pulling in enemies, pushes them away instead, higher damage, is quite powerful at pushing enemies away and slows down the enemy even further by applying a status effect. Also targets ground.
+
+-HEPTANOX WALL: 2x2 wall, but is very strong, saps enemies in a very short range, which heals it, can also target air units.
+
+-AXIDAAR VACTENEZ: The Guardian of The Temple, fires huge sapping lasers which also applies a status effect to enemies and also heals itself. has extremely high health which makes it very hard to destroy.
+
+
+<SINGULARITY CLASS TURRETS>
+
+-DEATHRAY PRISMA: Fires a different kinds of projectiles and lasers, also has a variety of ammunition it can use. Optionally uses coolant. 
+[from the files found in a wreck in serpulo]
+ "On planet Venaziocta of the Venxon, Sector 78, a blueprint of a huge turret was discovered. Hoping to use this in a war, the government of the Venxon hid it from every other civilization including theirs. Many will never know that it existed, and those who do... will never live to tell the tale."
+(whatever/whoever made the file probably got shot by the turret)
+
+<OBELISK TURRETS>
+(why obelisks?)
+
+•GRASS TIER
+
+-GRASS OBELISK [LASER]: Shoots laser beams at enemies at a long range. Cannot use coolant.
+
+-GRASS OBELISK [SLOW]: Slows down enemies from a small range. Heavily armored. Cannot use coolant.
+
+-GRASS OBELISK [MAGIC MISSILE]: Shoots 3 magic missiles that explode on a small area at a decent range. Cannot use coolant.
+
+•STONE TIER
+
+-STONE OBELISK [SAPPHIRE]: Shoots a burst of 4 ice shards at enemies. Cannot use coolant.
+
+-STONE OBELISK [RUBY]: Shoots powerful balls of fire at enemies, Explodes on impact. Cannot use coolant.
+
+-STONE OBELISK [DIAMOND]: Fires a laser beam that lasts for 30 seconds at enemies. Cannot use coolant.
+
+•VOID TIER
+
+-VOID OBELISK [PRISMION]: Fires deadly magic missiles that explodes into colorful and deadly projectiles on impact. Cannot use coolant.
+
+-VOID OBELISK [FRACTAL]: Shoots a homing bullet that frags into 2 identical ones on impact (Not despawn). Maximum frag amount is 1000. Cannot use coolant.

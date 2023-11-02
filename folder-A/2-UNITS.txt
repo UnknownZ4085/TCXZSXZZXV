@@ -1,0 +1,123 @@
+--UNITS--
+(I see mindustry crashing already)
+
+•OTHER/SINGULARITY CLASS UNITS:
+
+-ZIXON: Can destroy even the most armored bases.
+
+-HEVAC: Near indestructible, and packs a punch, this huge spider mech is the perfect unit for destroying planets. Can fly over all terrains.
+
+-ZEF: The Cube, is filled with deadly amounts of weapons, also is super armored.
+
+-HECANTROPY HYPERNOVA PLATFORM: A colossal death star-like space station, has over a hundred weapons, fully powered and ready to annihilate.
+
+•OMEGA CLASS UNITS
+
+-HOLY CRAWLER: Holds the holy hand grenade, this crawler is way more expensive. Is quite armored for a crawler, also has more health than the crawler, and has increased storage, speed and packs way more punch, can step over most terrains which makes it even more dangerous.
+
+-XEMORRA: High speed flying unit dug up from Serpulo. Highly unstable.
+
+-VEZEVAXONIARA: A construct of 2 civilizations.
+
+-AVAXIAN COLOSSUS: Reduces everything to nothing with it's heavy weapons and deadly tanks.
+
+-CHD: A massive carrier - type unit, constructs different kinds of unit, can carry huge amounts of payload, up to 15x15.
+
+<REVVEOR>
+
+•REVEXUS TREE
+
+-REVEXUS: A small spider mech, has 8 multi directional shotguns which heals the unit, decent speed, health and armor, has a high capacity for it's small size but cannot mine, can step over most terrains.
+
+-GREVADIAN: A large spider mech, has a sapping shotgun that fires 24 shots, is not multi directional unlike the Revexus, also has a long range railgun which frags into more sapping lasers, heavily armored, high health, decent speed and just like the Revexus, it has a high item capacity. Can step over most terrains.
+
+-SENTRUXIAN: A colossal spider mech, has 4 sapping guns which have a very high firerate, 2 AA foreshadow-like railguns. Is so incredibly well armored that not even an army of high tier units can kill it, also has an absurdly high health, slow speed of 2 tiles per second, has tripled item capacity of the Grevadian, can step over most terrains. A Sentinel of the Revveor Temple.
+
+<DAGGER TREE>
+[don't be confused by the other dagger tree, this one is the real one]
+
+-DAGGER [HEAVY]: This dagger spends its life savings on ammunition.
+
+-DAGGER [CRAWLER]: This dagger will show you something, but it can only do it once.
+
+-DAGGER [JETPACK]: Dagger but flying
+
+-DAGGER [WATER]: A dagger made out of water... wait what?
+
+-DAGGER [CHEAP]: Can be made out of scrap and lead, does less damage and less firerate, also has less health, but can be mass produced.
+
+-DAGGER [LUXURY]: Can be made out of Silicon, Graphite and Thorium, Packs a punch and does more firerate, bigger health and has armor now, can still be mass produced.
+
+-DAGGER [DAGGER]: Dagger that fires dagger, does it make sense? i don't know anymore...
+
+-DAGGER [MONO]: This dagger specializes in mining.
+
+-DAGGER [OMEGA]: This dagger is stronger than any daggers in this tree, it's big and it does massive damage, still same firerate.
+
+<MINING CORP. TREE>
+
+•Magmatic Industries
+
+-ATRUX MI: Magmatic's mining unit. High capacity land-based mining unit, maybe slow but the high capacity and fast mining speed compensates for it.
+
+-ATRUX MII: Magmatic's mining unit. Just like ATRUX MI this is a land-based mining unit, what is different is the increase in speed and greater mining capabilities, for when mining in dangerous territories, also equipped with a small but effective AA flak gun, and an artillery cannon.
+
+-ATRUX MIII: Magmatic's mining unit. The 3rd tier of ATRUX, 95% speed of the previous tier but with a big 80% increase in capacity and 50% faster mining speed, weapons are improved, now has 2 AA flak guns, and the artillery cannon is changed to a high powered flamethrower, useful when mining near enemy territories.
+
+•Avaxenn Corp.
+
+-NANO: Part of the NANO tree. When mining, of course you need speed and mining speed, the NANO has got both, may have a small 20 capacity, but it's cheaper than a mono and quite fast.
+
+-MICRO: Part of the NANO tree. this upgraded version of the NANO has even less health for a higher mining speed and can mine titanium, is also faster, +5 capacity!
+
+<FRUIT TREE>
+
+-M.A.N.G.O.: Stands for Modified ANtimatter Gamma Obliteration. An ancient spacecraft found in another dimension.
+
+-L.E.M.O.N.: Stands for Laser Equipped Magnified ObliteratioN. A tank made from a blueprint discovered in another dimension. It’s weapons can destroy bases in seconds.
+
+O.R.A.N.G.E.: Stands for ObliteRAtioN Gamma Extermination. A naval ship found 74 AUs (Astronomical Units) away from the system. Contains 10 high powered piercing weapons.
+
+-M.E.L.O.N.: Stands for MagnifiEd Lance ObliteratioN. A mech found while mining on ground zero. Can charge a nuclear bullet to annihilate bases.
+
+-A.P.P.L.E.: Stands for Antimatter Phantom Proton-LancEr. A giant tank with a giant laser beam. The laser beam pierces everything including plastanium walls.
+
+-K.I.W.I.: Stands for KnIght: WitherIng death. Releases clouds of darkness that can slowly kill a unit that goes in it. Pulls enemies in the cloud and for a short duration K.I.W.I. becomes invisible (Cannot be targeted but can still be shot) (only players can kill it, or use logic processors to control weapons to fire at it) and heal to full health but lower armor and hp, heals once again after the invisibility duration is over and return to normal state. Releases a bigger cloud when going in invisible mode.
+
+-B.E.R.R.Y.: Stands for Bishop: ERadicatoR tYphoon. Barrages enemies with high speed bolts from random directions and is also long range.
+
+-P.E.A.R.: Stands for Pawn: Entity AnnihilatoR. Pulls in meteors in orbit to strike enemies. Has a shield and every 25 seconds, summons a zone and when an enemy unit steps in that zone, They get shot at by a small Gamma Ray Burst, the zone only lasts for 15 seconds and disappears after an enemy unit steps on it. 
+
+-S.T.R.A.W.B.E.R.R.Y.: Stands for STaRstrike Annihilation Weapons Blackhole Entity eRaseR tYphoon. Fires high powered laser beams, Summons zones that pull enemies in and damage them, Summons half powered Gamma Ray Bursts and Uranium flamethrowers for some of that high powered deadly radiation poisoning. When 60% HP, attacks get faster, GRB attacks are full power, zones are bigger and pulls enemies in with more force, MORE RADIOACTIVE POSIONING, Lasers reach 4x distance. When 15% HP, GRB attacks are slower but way WAY more deadlier, damaging zones get smaller but it’s pulling radius is bigger and way up the damage, Lasers explode into a cloud of uranium on hit, clouds of uranium can fire homing clouds of plutonium and other radioactive matter, Flamethrowers become lasers instead and INFINITE REACH, plus frag into smaller laser beam on hit, also frags into a big radioactive zone, When 1% HP, Fire 3 slow bursts of superpowered Hypernovas and annihilate any medium shielded bases, [IS INVINCIBLE ON THIS PHASE WHILE THE BURSTS OF HYPERNOVAS ARE NOT OVER]. When 0% HP, summons a S.T.R.A.W.B.E.R.R.Y. Larva which can become another S.T.R.A.W.B.E.R.R.Y. if not killed quickly.
+
+<VENXON>
+
+•VECTA TREE
+
+-VECTA: Pretty small but still powerful. This flying unit is a drone technology of Venxon.
+
+-NAFEE: Bigger and more armored version of Vecta, But less powerful when it comes to weaponry. This flying unit is a drone technology of Venxon.
+
+-CETRON: Bigger and much more armored version of Nafee, Weapons are much more powerful than Vecta’s and has lots more weapons. This flying unit is a drone technology of Venxon.
+
+•OTHER
+
+-ARCOT: An agile aircraft. This aircraft can rain down bullets on bases. This flying unit is a technology of Venxon.
+
+-RZEP: A huge mech. High firepower, Has a shield, Highly armored but costs it’s speed. This mech unit is a technology of Venxon.
+
+<SOLARIA>
+
+•ASTEROID TREE
+
+-ASTEROID: Expert on explosives, lots of heat and destruction. Constructed by a civilization of the stars and suns.
+
+-GRAVIRON MKI: High powered laser beams and more explosives. Constructed by a civilization of the stars and suns. (the first iteration)
+
+-GRAVIRON MKII: High powered piercing laser beams, laser shotguns and point defense system. Constructed by a civilization of the stars and suns. (the second iteration)
+
+-GRAVIRON MKX: High powered piercing gamma beams, point defense system and a forcefield. Constructed by a civilization of the stars and suns. (the third and final iteration of the GRAVIRON)
+
+-SOLAR-X: SOLARIA’s technology, contains the heat of a trillion stars. Constructed by a civilization of the stars and suns.
+
+<GEEFO>
