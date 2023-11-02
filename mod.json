@@ -1,9 +1,9 @@
 {
 "name": "tcxzzz",
 "displayName": "[]TCXZSXZZXV",
-"author": "\n[magenta]<[]Developer[magenta]>\n[]-UnknownZX4085\n\n[]<[red]Sprites[]>[]\n-UnknownZX4085\n\n[orange]<[]JSON[orange]>[]\n-UnknownZX4085\n\n[yellow]<[]Bug/Language fixes[yellow]>[]\n-UnknownZX4085\n\n[green]<[]Balancing[green]>[]\n-UnknownZX4085(That's... wip)\n\n[blue]<[]Schematics/Lore/Language[blue]>[]\n•Trash Schematics\n-UnknownZX4085\n\n•Actual Schematics\n-[gray]Null[]\n\n•Lore\n-[gray]Null[]\n\n•Language\n-English\n-UnknownZX4085\n\n\n\nFor contribution, check the discord server/repository of the mod, you may also find a link to the discord server in one of the files in the repository in Github.",
-"description": "[crimson]Requires UnknownZX4085/TCXZZZSPRITES-MAIN and UnknownZX4085/TCXZZZSPRITES-UNITS for the sprites[]\n\nA mod which will (hopefully) add a [orange]huge []amount of fun, balanced and of course, colorful content\n\n<Adds>\n-2 custom survival map (WIP)\n-1 custom attack map (WIP)\n-<Amount> Blocks\n-<Amount> Items\n-<Amount> Liquids\n-<Amount> Items\n-<Amount> Schematics\n\n\n\n<Languages>\n•English\n\n\n[]For more information about this mod, check [gray]Github[]/[blue]Discord[]\nHave fun!",
-"version": "[crimson]0.0.1.6",
+"author": "\n[#8000ff]<[]Developer[#8000ff]>\n[]-UnknownZX4085\n\n[]<[#ff0000]Sprites[]>[]\n-UnknownZX4085\n\n[#ff8000]<[]JSON[#ff8000]>[]\n-UnknownZX4085\n\n[#ffff00]<[]Bug/Language fixes[#ffff00]>[]\n-UnknownZX4085\n\n[#00ff00]<[]Balancing[#00ff00]>[]\n-UnknownZX4085(That's... wip)\n\n[#0000ff]<[]Schematics/Lore/Language[blue]>[]\n•Trash Schematics\n-UnknownZX4085\n\n•Actual Schematics\n-[#808080]Null[]\n\n•Lore\n-[#808080]Null[]\n\n•Language\n-English\n-UnknownZX4085\n\n\n\nFor contribution, check the discord server/repository of the mod, you may also find a link to the discord server in one of the files in the repository in Github.",
+"description": "[#ff0000]Requires UnknownZX4085/TCXZZZSPRITES-MAIN and UnknownZX4085/TCXZZZSPRITES-UNITS for the sprites[]\n\nA mod which will (hopefully) add a [#ff8000]huge []amount of fun, balanced and of course, colorful content\n\n<Adds>\n-2 custom survival map (WIP)\n-1 custom attack map (WIP)\n-<Amount> Blocks\n-<Amount> Items\n-<Amount> Liquids\n-<Amount> Items\n-<Amount> Schematics\n\n\n\n<Languages>\n•English\n\n\n[]For more information about this mod, check [#808080]Github[]/[blue]Discord[]\nHave fun!",
+"version": "[#ff0000]0.0.1.6",
 "hidden": false
 "minGameVersion": "141",
 "dependencies": ["tcxzzzsprites-main", "tcxzzzsprites-units"]
